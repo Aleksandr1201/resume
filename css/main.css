@@ -1,0 +1,60 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-image: url(bg.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    font-family: sans-serif;
+}
+.container{
+    width: 70%;
+    margin: 0 auto;
+}
+.portfolio_discription{
+    text-align: center;
+}
+.portfolio_name{
+    padding-top: 100px;
+}
+.portfolio_name img{
+    width: 19%;
+}
+.portfolio_discription p{
+    font-weight: 600;
+}
+.about_me p{
+    font-family: sans-serif;
+    border: 1px solid #777777;
+    padding: 7px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #777777;
+}
+.header_discription{
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+.header_discription h2{
+    text-align: center;
+    font-weight: bold;
+}
+.header_discription p{
+    border: 1px solid #777777;
+    border-radius: 10px;
+    padding: 7px;
+    box-shadow: 0 0 10px #777777;
+}
+.portfolio_skils{
+    padding-bottom: 70px;
+}
+.portfolio_skils h2{
+    text-align: center;
+}
+.portfolio_skils ul{
+    border: 2px solid #777777;
+    box-shadow: 0 0 20px #777777;
+    display: inline-block;
+    
+}
+.portfolio_skils li{
+    padding: 7px;
+}
